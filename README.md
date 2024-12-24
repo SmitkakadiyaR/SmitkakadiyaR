@@ -1,8 +1,8 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kalsariyadarshan&label=Profile%20views&color=0e75b6&style=flat" alt="kalsariyadarshan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SmitkakadiyaR&label=Profile%20views&color=0e75b6&style=flat" alt="SmitkakadiyaR" /> </p>
 
-<h1 align="center">Hi 👋, I'm Darshan Kalsariya</h1>
+<h1 align="center">Hi 👋, I'm Smit Kakadiya</h1>
 
-<p align="left">I am Darshan and I'm a Frontend Web developer, from Bengaluru, Karnataka</p>
+<p align="left">I am Smit and I'm a Backend Web developer, from Bengaluru, Karnataka</p>
 
 ###
 
@@ -11,9 +11,9 @@
 ###
 
 
-- 📚 I'm currently learning Backend development
+- 📚 I'm currently learning frontend development
 - ❓ Ask me about anything related to MERN stack and related technologies
-- 📫 How to reach me **darshankalsariya29@gmail.com**
+- 📫 How to reach me **smitkakadiya588@gmail.com**
 - 🔭 I’m currently working on ReactJS, NextJS, React Native, NodeJS, Firebase, MongoDB
 - ⚡ Fun fact: Writing code is the closest thing we have to magic—except the bugs are like mischievous gremlins!
 
