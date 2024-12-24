@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Smit Kakadiya</h1>
 
-<p align="left">I am Smit and I'm a Backend Web developer, from Bengaluru, Karnataka</p>
+<p align="left">I am Smit and I'm a Backend developer, from Bengaluru, Karnataka</p>
 
 ###
 
