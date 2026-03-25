@@ -15,7 +15,6 @@
 - ❓ Ask me about anything related to MERN stack and related technologies
 - 📫 How to reach me **smitkakadiya588@gmail.com**
 - 🔭 I’m currently working on ReactJS, NextJS, React Native, NodeJS, Firebase, MongoDB
-- ⚡ Fun fact: Writing code is the closest thing we have to magic—except the bugs are like mischievous gremlins!
 
 ###
 
